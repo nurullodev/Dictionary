@@ -11,12 +11,12 @@ class MyDictionary(QMainWindow):
      def __init__(self):
           super().__init__()
           self.mainWindow()
-          self.onenJson()
+          self.openJson()
           self.changeLanguage()
           self.wordTranslation('')
           self.showWords(self.uzbList)
 
-     def onenJson(self):
+     def openJson(self):
           with open("uzb_ang.json") as file:
                data1 = json.load(file)
                for item in data1:
