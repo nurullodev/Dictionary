@@ -10,8 +10,6 @@ We welcome contributions to make this dictionary even more comprehensive and acc
 2. Add or edit dictionary entries following the established format and guidelines.
 3. Submit a pull request to have your changes reviewed and merged.
 
-Please review our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
